@@ -36,7 +36,7 @@ a:hover {
   color: white;
 }
 img.logo {
-  max-height: 350px;
+  max-height: 300px;
   margin-bottom: 20px;
   animation-delay: 1s;
   -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
