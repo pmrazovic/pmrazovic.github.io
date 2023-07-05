@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1604.81 1695.95">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 72px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #208997;
+      }
+
+      .cls-3 {
+        letter-spacing: .58em;
+      }
+
+      .cls-4 {
+        letter-spacing: .59em;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-7 {
+        letter-spacing: .57em;
+      }
+
+      .cls-8 {
+        letter-spacing: .57em;
+      }
+
+      .cls-9 {
+        letter-spacing: .59em;
+      }
+
+      .cls-10 {
+        letter-spacing: .58em;
+      }
+
+      .cls-11 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-12 {
+        fill: #3cb4c1;
+      }
+
+      .cls-12, .cls-2, .cls-13 {
+        fill-rule: evenodd;
+      }
+
+      .cls-13 {
+        fill: url(#GradientFill_2);
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: .55em;
+      }
+
+      .cls-15 {
+        fill: #004b5c;
+        font-size: 300px;
+      }
+    </style>
+    <linearGradient id="GradientFill_2" data-name="GradientFill 2" x1="802.37" y1="953.82" x2="802.37" y2="145.92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#004b5c"/>
+      <stop offset=".02" stop-color="#035262"/>
+      <stop offset=".08" stop-color="#0e6675"/>
+      <stop offset=".17" stop-color="#167685"/>
+      <stop offset=".27" stop-color="#1b818f"/>
+      <stop offset=".42" stop-color="#1f8795"/>
+      <stop offset="1" stop-color="#208997"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="cls-2" d="m412.18,145.92h319.8c207.65,0,386.59,129.09,460.58,310.97h-212c-56.93-75.71-147.41-125.02-248.59-125.02h-133.85v621.94h133.85c138.34,0,256.71-92.19,296.61-218h-152.34v-185.95h343.84c5.77,30.14,8.82,61.22,8.82,92.98h0c0,273.31-223.61,496.92-496.92,496.92h-133.85l-185.95-185.95V145.92Z"/>
+    <path class="cls-13" d="m412.18,145.92h319.8c207.65,0,386.59,129.09,460.58,310.97h-212c-56.93-75.71-147.41-125.02-248.59-125.02h-133.85v621.94h-185.95V145.92Z"/>
+    <path class="cls-12" d="m598.13,953.82h133.85c138.34,0,256.71-92.19,296.61-218h-152.34v-185.95h343.84c5.77,30.14,8.82,61.22,8.82,92.98h0c0,273.31-223.61,496.92-496.92,496.92h-133.85l-185.95-185.95h185.95Z"/>
+  </g>
+  <text class="cls-15" transform="translate(119.75 1508.19)"><tspan class="cls-5" x="0" y="0">D</tspan><tspan class="cls-6" x="247.8" y="0">E</tspan><tspan class="cls-5" x="446.69" y="0">V</tspan><tspan class="cls-11" x="682.49" y="0">GEM</tspan></text>
+  <text class="cls-1" transform="translate(116.54 1614.46)"><tspan class="cls-3" x="0" y="0">C</tspan><tspan class="cls-9" x="94.46" y="0">U</tspan><tspan class="cls-8" x="193.32" y="0">ST</tspan><tspan class="cls-9" x="366.55" y="0">OM SO</tspan><tspan class="cls-4" x="833.75" y="0">F</tspan><tspan class="cls-7" x="922.24" y="0">T</tspan><tspan class="cls-14" x="1007.92" y="0">W</tspan><tspan class="cls-10" x="1131.04" y="0">ARE</tspan></text>
+</svg>
