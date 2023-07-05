@@ -4,7 +4,6 @@ body {
   font-size: 0.8rem;
 }
 html {
-  overflow-y: hidden !important;
   background-image: url('../media/background.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
