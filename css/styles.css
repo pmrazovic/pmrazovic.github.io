@@ -1,7 +1,7 @@
 html,
 body {
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 html {
   background-image: url('../media/background.jpg');
@@ -23,9 +23,6 @@ a:hover {
 }
 .title.is-1 {
   font-size: 5rem;
-}
-.footer-text a {
-  color: white;
 }
 img.logo {
   max-width: 50%;
